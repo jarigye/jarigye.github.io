@@ -307,6 +307,9 @@ span.hash-note::before {
 .profile-picture{
     border-radius: 50%;
 }
+.active{
+    font-weight:bold;
+  }
 @media print {
 
     del,
